@@ -1,0 +1,10 @@
+
+.todos{
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0px;
+}
+.todos .action-container button{
+  margin: 0px 0px 0px 10px;
+}
+
