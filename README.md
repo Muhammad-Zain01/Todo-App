@@ -6,6 +6,10 @@
 [Go to This Link to See the TODO App](https://muhammad-zain01.github.io/Todo-App/)
 # Getting Started with Create React App
 
+## Description
+
+This React-based project provides a simple yet effective To-Do list application where users can add, delete, and mark items as completed. The application utilizes browser's Local Storage to ensure the data remains intact across sessions, thus providing a persistent user experience. Users can manage their tasks efficiently and come back to their list anytime without losing their progress. Through this project, learners can grasp the concepts of state management, event handling, and data persistence in React, while working on a real-world application.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
