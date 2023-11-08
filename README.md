@@ -1,52 +1,119 @@
+<br />
+<div align="center">
 
-# Todo-App
+<h3 align="center">Todo App</h3>
+<div>
+    <a href="https://github.com/muhammad-zain01/Todo-App/graphs/contributors"><img src="https://img.shields.io/github/contributors/muhammad-zain01/Todo-App.svg?style=for-the-badge" /></a>
+    <a href="https://github.com/muhammad-zain01/Todo-App/network/members"><img src="https://img.shields.io/github/forks/muhammad-zain01/Todo-App.svg?style=for-the-badge" /></a>
+    <a href="https://github.com/muhammad-zain01/Todo-App/stargazers"><img src="https://img.shields.io/github/stars/muhammad-zain01/Todo-App.svg?style=for-the-badge" /></a>
+    <a href="https://github.com/muhammad-zain01/Todo-App/issues"><img src="https://img.shields.io/github/issues/muhammad-zain01/Todo-App.svg?style=for-the-badge" /></a>
+</div>
 
-![Preview](https://raw.githubusercontent.com/Muhammad-Zain01/Todo-App/main/preview.png)
-
-[Go to This Link to See the TODO App](https://muhammad-zain01.github.io/Todo-App/)
-# Getting Started with Create React App
-
-## Description
-
-This React-based project provides a simple yet effective To-Do list application where users can add, delete, and mark items as completed. The application utilizes browser's Local Storage to ensure the data remains intact across sessions, thus providing a persistent user experience. Users can manage their tasks efficiently and come back to their list anytime without losing their progress. Through this project, learners can grasp the concepts of state management, event handling, and data persistence in React, while working on a real-world application.
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+  <p align="center" style="text-align: justify;">
+   This React-based project provides a simple yet effective To-Do list application where users can add, delete, and mark items as completed. The application utilizes browser's Local Storage to ensure the data remains intact across sessions, thus providing a persistent user experience. Users can manage their tasks efficiently and come back to their list anytime without losing their progress. Through this project, learners can grasp the concepts of state management, event handling, and data persistence in React, while working on a real-world application.
+  </p>
+    <a href="https://github.com/muhammad-zain01/Todo-App"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://muhammad-zain01.github.io/Todo-App/">View Demo</a>
+    -
+    <a href="https://github.com/muhammad-zain01/Todo-App/issues">Report Bug</a>
+    -
+    <a href="https://github.com/muhammad-zain01/Todo-App/issues">Request Feature</a>
+    <br />
+    <br />
+    <br />
+</div>
 
 
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+### Built With
+
+<!-- * [![Next][Next.js]][Next-url] -->
+* [![React][React.js]][React-url]
+<!-- * [![Vue][Vue.js]][Vue-url] -->
+<!-- * [![Angular][Angular.io]][Angular-url] -->
+<!-- * [![Svelte][Svelte.dev]][Svelte-url] -->
+<!-- * [![Laravel][Laravel.com]][Laravel-url] -->
+<!-- * [![Bootstrap][Bootstrap.com]][Bootstrap-url] -->
+<!-- * [![JQuery][JQuery.com]][JQuery-url] -->
+
+## Getting Started
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/muhammad-zain01/Todo-App.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+See the [open issues](https://github.com/muhammad-zain01/Todo-App/issues) for a full list of proposed features (and known issues).
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - zainmemon010@gmail.com
+
+Project Link: [https://github.com/muhammad-zain01/Todo-App](https://github.com/muhammad-zain01/Todo-App)
+
+
+[contributors-shield]: https://img.shields.io/github/contributors/muhammad-zain01/Todo-App.svg?style=for-the-badge
+[contributors-url]: https://github.com/muhammad-zain01/Todo-App/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/muhammad-zain01/Todo-App.svg?style=for-the-badge
+[forks-url]: https://github.com/muhammad-zain01/Todo-App/network/members
+[stars-shield]: https://img.shields.io/github/stars/muhammad-zain01/Todo-App.svg?style=for-the-badge
+[stars-url]: https://github.com/muhammad-zain01/Todo-App/stargazers
+[issues-shield]: https://img.shields.io/github/issues/muhammad-zain01/Todo-App.svg?style=for-the-badge
+[issues-url]: https://github.com/muhammad-zain01/Todo-App/issues
+[license-shield]: https://img.shields.io/github/license/muhammad-zain01/Todo-App.svg?style=for-the-badge
+[license-url]: https://github.com/muhammad-zain01/Todo-App/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/linkedin_username
+[product-screenshot]: https://raw.githubusercontent.com/Muhammad-Zain01/Todo-App/main/preview.png
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next-url]: https://nextjs.org/
+[React.js]: https://img.shields.io/badge/React-4A4A55?style=for-the-badge&logo=react&logoColor=white
+[React-url]: https://reactjs.org/
+[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+[Vue-url]: https://vuejs.org/
+[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+[Angular-url]: https://angular.io/
+[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
+[Svelte-url]: https://svelte.dev/
+[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+[Laravel-url]: https://laravel.com
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com
+[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+[JQuery-url]: https://jquery.com 
