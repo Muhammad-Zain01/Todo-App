@@ -79,15 +79,6 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - zainmemon010@gmail.com
-
-Project Link: [https://github.com/muhammad-zain01/Todo-App](https://github.com/muhammad-zain01/Todo-App)
-
-
 [contributors-shield]: https://img.shields.io/github/contributors/muhammad-zain01/Todo-App.svg?style=for-the-badge
 [contributors-url]: https://github.com/muhammad-zain01/Todo-App/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/muhammad-zain01/Todo-App.svg?style=for-the-badge
